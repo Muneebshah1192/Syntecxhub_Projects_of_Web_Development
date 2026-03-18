@@ -361,8 +361,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Muneeb Shah** - Aspiring Full Stack Developer
 
 - **GitHub:** [@Muneebshah1192](https://github.com/Muneebshah1192)
-- **LinkedIn:** [Muneeb Shah](https://linkedin.com/in/muneeb-shah)
-- **Email:** muneeb.shah@example.com
+- **LinkedIn:** [Syed Muneeb](https://www.linkedin.com/in/syed-muneeb-629648284/)
+- **Email:** muneebshah1192@gmail.com
 
 **Project Link:** [https://github.com/Muneebshah1192/Syntecxhub_Projects_of_Web_Development/tree/main/Syntecxhub_Expense_Tracker](https://github.com/Muneebshah1192/Syntecxhub_Projects_of_Web_Development/tree/main/Syntecxhub_Expense_Tracker)
 
